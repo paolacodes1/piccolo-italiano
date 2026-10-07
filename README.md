@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="icon-192.png" width="96" alt="Piccolo Italiano lemon icon">
+<img src="piccolo-italiano/icon-192.png" width="96" alt="Piccolo Italiano lemon icon">
 
 # Piccolo Italiano
 
 **An Italian game for children who can't read yet.**
 Tap a picture, hear the word, find the right one, win a sticker.
 
-### [▶ Play it here](https://paolacodes1.github.io/piccolo-italiano/)
+### [▶ Play it here](https://paolacodes1.github.io/piccolo-italiano/piccolo-italiano/)
 
 </div>
 
@@ -247,7 +247,7 @@ These shaped every screen:
 
 ## Put it on an iPad or iPhone
 
-1. Open the [game link](https://paolacodes1.github.io/piccolo-italiano/) in **Safari**.
+1. Open the [game link](https://paolacodes1.github.io/piccolo-italiano/piccolo-italiano/) in **Safari**.
 2. Tap **Share**, then **Add to Home Screen**.
 3. A lemon icon called "Italiano" appears next to the other apps. It opens full screen, like a real app.
 
